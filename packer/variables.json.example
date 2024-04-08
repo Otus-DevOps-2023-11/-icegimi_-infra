@@ -1,0 +1,6 @@
+{
+  "type": "gimi",
+  "folder_id": "xxx",
+  "ssh_username": "ubuntu",
+  "use_ipv4_nat": "true"
+}
