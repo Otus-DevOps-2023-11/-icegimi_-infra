@@ -1,6 +1,5 @@
 {
-  "type": "gimi",
+  "service_account_key_file": "/home/belkin/otus/key.json",
   "folder_id": "xxx",
-  "ssh_username": "ubuntu",
-  "use_ipv4_nat": "true"
+  "ssh_username": "appuser"
 }
